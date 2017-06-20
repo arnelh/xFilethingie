@@ -1,5 +1,6 @@
 # xFile Thingie
-File Thingie is a PHP file manager, this is originally a fork of Haugstrup's Filethinge (http://www.solitude.dk/filethingie/)
+File Thingie is a PHP file manager, this is originally a fork of Haugstrup's Filethinge 
+[http://www.solitude.dk/filethingie/](https://web.archive.org/web/20121015180643/http://www.solitude.dk/filethingie/)
 
 Why a fork?
 This is the older and unmaintained standalone type version of filethingie.
